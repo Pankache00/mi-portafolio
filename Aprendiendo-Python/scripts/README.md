@@ -5,6 +5,7 @@ Este portafolio documenta mi proceso de aprendizaje en Python, Pandas y otras he
 ## Estructura del Proyecto
 
 La estructura básica del portafolio es la siguiente:
+
 - **data/**: Contiene los datasets (ej. `iris.csv`, `tips.csv`) usados en los ejemplos.
 - **notebooks/**: Aquí se agregarán cuadernos Jupyter (`.ipynb`) con análisis más interactivos.
 - **scripts/**: Archivos `.py` con el código fuente de cada ejemplo.
@@ -12,9 +13,10 @@ La estructura básica del portafolio es la siguiente:
 
 ## Ejemplos Incluidos
 
-- [Ejemplo 1](#ejemplo-1)  
-- [Ejemplo 2](#ejemplo-2)  
+- [Ejemplo 1](#ejemplo-1)
+- [Ejemplo 2](#ejemplo-2)
 - [Ejemplo 3](#ejemplo-3)
+- [Ejemplo 4](#ejemplo-4)
 
 ---
 
@@ -23,6 +25,7 @@ La estructura básica del portafolio es la siguiente:
 **Archivo:** `scripts/ejemplo_1.py`
 
 **Descripción:**
+
 - Crea un `DataFrame` a partir de un diccionario.
 - Imprime el DataFrame completo.
 - Calcula la media de la columna `'Edad'`.
@@ -32,6 +35,7 @@ La estructura básica del portafolio es la siguiente:
 Este ejemplo introduce la creación y manipulación básica de un DataFrame, así como la obtención de estadísticas descriptivas iniciales.
 
 **Ejecución:**
+
 ```bash
 python scripts/ejemplo_1.py
 
@@ -39,3 +43,4 @@ Nota Final
 A medida que continúe mi aprendizaje, se agregarán más ejemplos con datasets variados, análisis más complejos (como agrupamiento, fusiones de DataFrames, visualizaciones, y técnicas de limpieza avanzadas), así como el uso de otras librerías del ecosistema de Python para la ciencia de datos.
 
 ¡Gracias por revisar este portafolio!
+```
